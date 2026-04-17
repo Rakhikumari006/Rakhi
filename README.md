@@ -1,18 +1,4 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=RAKHI+KUMARI;IOT+%2B+AI+DEVELOPER;BUILDING+SMART+FUTURE;WELCOME+TO+MY+TECH+WORLD&center=true&width=700&height=60&color=00F7FF">
-</h1>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=RAKHI%20KUMARI&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
-</p>
-
----
-
-```bash
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=RAKHI+KUMARI;IOT+%2B+AI+DEVELOPER;BUILDING+SMART+FUTURE;WELCOME+TO+MY+TECH+WORLD&center=true&width=700&height=60&color=00F7FF"> </h1> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=RAKHI%20KUMARI&fontSize=40&fontColor=ffffff&animation=fadeIn"/> </p> <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/> </p>
 > initializing system...
 > loading AI modules ██████████ 100%
 > IoT network: CONNECTED 🌐
@@ -49,4 +35,4 @@ goal: Build impactful tech for real problems
 > next target: HACKATHON WINNER 🏆
 📡 CONNECT WITH ME
 <p align="center"> <a href="https://github.com/Rakhikumari006"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> </p>
-<p align="center"> 💡 "Innovate. Build. Impact." 💡 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f2027&height=120&section=footer"/> </p> ```
+<p align="center"> 💡 "Innovate. Build. Impact." 💡 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f2027&height=120&section=footer"/> </p>
